@@ -1,4 +1,4 @@
-[
+
 {"total_open_amount":4982.86,"business_code":"U001","clear_date":"2019-01-11","name_customer":"SORCE co","due_in_date":"2019-01-15"},
 {"total_open_amount":11464.54,"business_code":"U001","clear_date":"2019-02-04","name_customer":"US  us","due_in_date":"2019-02-03"},
 {"total_open_amount":32548.94,"business_code":"U001","clear_date":"2019-01-15","name_customer":"MCL trust","due_in_date":"2019-01-15"},
@@ -19,4 +19,3 @@
 {"total_open_amount":11391.36,"business_code":"U001","clear_date":"2019-03-01","name_customer":"KRFT FDS in","due_in_date":"2019-02-04"},
 {"total_open_amount":480.2,"business_code":"U001","clear_date":"2019-01-18","name_customer":"RESTA associates","due_in_date":"2019-01-18"},
 {"total_open_amount":3798.25,"business_code":"U001","clear_date":"2019-01-16","name_customer":"SYSCO F in","due_in_date":"2019-01-16"},
-]
